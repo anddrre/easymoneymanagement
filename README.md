@@ -1,0 +1,2 @@
+# easymoneymanagement
+personalproject
